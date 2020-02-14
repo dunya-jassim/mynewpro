@@ -1,0 +1,25 @@
+/* Default theme Color Green */
+.option-box .option-color{
+    border: 4px solid #148545;
+}
+.option-box ul li,
+.option-box .gear-check,
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus
+{
+    background-color: #148545;
+}
+.navbar .navbar-brand span,
+.intro .h1 span,
+.web-dev .h1,
+.web-design .h1,
+.system-ana .h1,
+.network .h1,
+.footer h3,
+.footer .min{
+    color: #148545;
+}
+.web-design .carousel-indicators li{
+    border: 2px solid #148545;
+}
